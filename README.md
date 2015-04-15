@@ -1,5 +1,5 @@
 # EnableDisableRemoveDevice
-This small VB.NET project uses win32 API to enabled, disbled or remove a COM Port device.
+This small VB.NET project uses win32 API to enabled, disbled or remove a COM Port device (Could be adaptated for other kind of devices).
 
 This project is an adaptation of a project found on the internet: http://jo0ls-dotnet-stuff.blogspot.fr/2009/01/enabledisable-device-programmatically.html
 
